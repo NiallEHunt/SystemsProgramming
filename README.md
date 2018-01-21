@@ -1,4 +1,4 @@
-# SystemsProgramming
+# Systems Programming
 Assignments from Systems Programming, a Senior Freshman module.
 
 Some of the formatting may be incorrect in these programs. Only the source code has been uploaded all other necessary files and libraries are ommitted.
